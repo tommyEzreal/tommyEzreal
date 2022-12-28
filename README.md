@@ -5,7 +5,6 @@
 ### 👨🏻‍💻
 > future NLP engineer 
 
-- 👋 Hi, I’m @tommyEzreal / @SEO KWANG WOOK
 - 👀 I’m interested in ... ML / NLP / Statistics
 - 🌱 I’m currently learning ... NLP modeling / Deep Learning /Python Programming
 - 👨🏻‍💻 I want to be a ... NLP engineer/researcher
