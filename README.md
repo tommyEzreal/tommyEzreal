@@ -2,7 +2,7 @@
 > 👨🏻‍💻tommyEzreal   
 > future NLP engineer 
 
-- 👀 I’m interested in ... ML / NLP / Statistics
+- 👀 I’m interested in ... ML / NLP / Statistics / Data Analytics
 - 🌱 I’m currently learning ... Deep Learning /Python Programming
 - 👨🏻‍💻 I want to be a ... NLP engineer/researcher
 - 📫 How to reach me ... tommypro2130@naver.com
