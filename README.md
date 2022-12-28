@@ -1,8 +1,5 @@
 # SeoKwangWook
-> tommyEzreal
-
-
-### 👨🏻‍💻
+> 👨🏻‍💻tommyEzreal   
 > future NLP engineer 
 
 - 👀 I’m interested in ... ML / NLP / Statistics
