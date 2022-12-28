@@ -1,3 +1,7 @@
+# SeoKwangWook
+> tommyEzreal
+
+
 ### 👨🏻‍💻
 > future NLP engineer 
 
