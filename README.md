@@ -1,4 +1,4 @@
-# SeoKwangWook
+# Seo Kwang Wook
 > 👨🏻‍💻tommyEzreal   
 > future NLP engineer 
 
