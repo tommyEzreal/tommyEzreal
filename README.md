@@ -8,7 +8,7 @@
 - 📫 How to reach me ... tommypro2130@naver.com
 - 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
 
-## Experiences 
+## EXPERIENCES 
 
 - 2022 데이터청년캠퍼스 한국외국어대학교 자연어처리과정  
 - twigfarm SolProject 3기 유사문장평가팀 연구 인턴  
