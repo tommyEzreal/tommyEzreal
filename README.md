@@ -8,7 +8,7 @@
 - 📫 How to reach me ... tommypro2130@naver.com
 - 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
 
-## EXPERIENCES 
+### EXPERIENCES 
 
 - 2023 LG유플러스 AI/DATA세미나 발표     
 - twigfarm SolProject 3기 유사문장평가팀 연구 인턴      
@@ -16,7 +16,7 @@
 
 
 
-## AWARDS 🏆
+### AWARDS 🏆
 
 - 2022 빅콘테스트 데이터분석리그 챔피언부문 대상(과학기술정보통신부 장관상)
 - 2022 한국외대 AI교육원 인공지능 아이디어 공모전 우수상(AI교육원장상)
