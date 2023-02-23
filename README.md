@@ -2,8 +2,7 @@
 > 👨🏻‍💻tommyEzreal   
 > future NLP engineer 
 
-- 👀 I’m interested in ...  NLP / ML,DL / Statistics / Data Analysis    
-                            Interpretable Language Model /      
+- 👀 I’m interested in ...  NLP / ML,DL / Statistics / Data Analysis         
 - 🌱 I’m currently learning ... Linear Algebra /Pytorch🔥 /Transformer🤗
 - 👨🏻‍💻 I want to be a ... NLP engineer/researcher
 - 📫 How to reach me ... tommypro2130@naver.com
