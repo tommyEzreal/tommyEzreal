@@ -2,7 +2,6 @@
 > 👨🏻‍💻tommyEzreal   
 > future NLP engineer     
 
-<br>
 [![CV Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=google%20drive&logoColor=white&link=https://drive.google.com/file/d/1hOKhMWkb_OBTJSvdE7zSj56K7Oevq9Wc/view?usp=sharing)](https://drive.google.com/file/d/1hOKhMWkb_OBTJSvdE7zSj56K7Oevq9Wc/view?usp=sharing)     
 
 - 👀 I’m interested in ...  NLP / ML,DL / Statistics / Data Analysis         
