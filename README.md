@@ -16,11 +16,12 @@
 - 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
 
 
-### languages
+- languages
 ![python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=flat&logo=R)
 ![SAS](https://img.shields.io/badge/-SAS-black?style=flat&logo=SAS)
 
+- framework
 ![pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat&logo=pytorch)
 
 
