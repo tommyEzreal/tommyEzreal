@@ -16,6 +16,8 @@
 - 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
 
 
+### languages
+![python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 
 
 
