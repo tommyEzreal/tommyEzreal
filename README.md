@@ -18,10 +18,10 @@
 
 ### languages
 ![python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![R](https://img.shields.io/badge/-Python-black?style=flat&logo=R)
-![SAS](https://img.shields.io/badge/-Python-black?style=flat&logo=SAS)
+![R](https://img.shields.io/badge/-R-black?style=flat&logo=R)
+![SAS](https://img.shields.io/badge/-SAS-black?style=flat&logo=SAS)
 
-![pytorch](https://img.shields.io/badge/-Python-black?style=flat&logo=pytorch)
+![pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat&logo=pytorch)
 
 
 
