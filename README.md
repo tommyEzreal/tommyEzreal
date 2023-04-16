@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtommyEzreal&count_bg=%23554ABE&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Seo Kwang Wook
+# Seo Kwang Wook [![CV Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=google%20drive&logoColor=white&link=https://drive.google.com/file/d/1hCDpqhtccPjxxDPD18QF_LXXfGineIfT/view?usp=sharing)](https://drive.google.com/file/d/1hCDpqhtccPjxxDPD18QF_LXXfGineIfT/view?usp=sharing) 
 > 👨🏻‍💻tommyEzreal   
 > future NLP engineer     
 
-[![CV Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=google%20drive&logoColor=white&link=https://drive.google.com/file/d/1hCDpqhtccPjxxDPD18QF_LXXfGineIfT/view?usp=sharing)](https://drive.google.com/file/d/1hCDpqhtccPjxxDPD18QF_LXXfGineIfT/view?usp=sharing)     
+    
 
 
 
