@@ -10,7 +10,7 @@
 
 
 - 👀 I’m interested in ...  NLP / ML,DL / Statistics / Data Analysis         
-- 🌱 I’m currently learning ... Linear Algebra / Optimization / Pytorch🔥 /Transformer🤗
+- 🌱 I’m currently learning ... Linear Algebra / Optimization / Pytorch🔥 /Transformer🤖
 - 👨🏻‍💻 I want to be a ... NLP engineer/researcher
 - 📫 How to reach me ... tommy2130@yonsei.ac.kr
 - 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
