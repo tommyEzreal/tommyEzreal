@@ -9,7 +9,7 @@
 
 
 
-- 👀 I’m interested in ...  Natural Language Processing / Table Reasoning with lagnuge models / Real-world appilcations of deep learning
+- 👀 I’m interested in ...  Natural Language Processing / Table Reasoning with language models / Real-world appilcations of deep learning
 - 👨🏻‍💻 I want to be a ... NLP engineer/researcher
 - 📫 How to reach me ... tommy2130@yonsei.ac.kr
 - 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
