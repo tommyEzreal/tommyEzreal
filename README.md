@@ -1,27 +1,52 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtommyEzreal&count_bg=%23554ABE&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Seo Kwangwook 
-> 👨🏻‍💻tommyEzreal   
-> future NLP engineer     
 
-    
+# About
+I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](https://diyonsei.notion.site/Data-Language-Intelligence-Lab-Yonsei-University-7e121249362f42c2bdd1328aeaeb5f4b) at Yonsei University, advised by [Prof. Dongha Lee](https://donalee.github.io/).
 
-
-
-
-- 👀 I’m interested in ...  Natural Language Processing / Table Reasoning with language models / Real-world appilcations of deep learning
-- 👨🏻‍💻 I want to be a ... NLP engineer/researcher
-- 📫 How to reach me ... tommy2130@yonsei.ac.kr
-- 📚 Also have a blog ... https://nothinsgonnachangemyworld.tistory.com/
+## 🔎 Research Interest
+- Natural Language Processing
+- Knowledge Augmentation for Language Models
+- Multi-Agent Interaction
+- Reasoning Over Table
 
 
-#### languages   
-![python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-black?style=flat&logo=R)
-![SAS](https://img.shields.io/badge/-SAS-black?style=flat&logo=SAS)
+## 📚 Publications
+*{ } : equal contribution*  
+- <span style="color:darkbrown"> **Unveiling Implicit Table Knowledge with Question-Then-Pinpoint Reasoner for Insightful Table Summarization** </span>  
+**Kwangwook Seo**, Jinyoung Yeo, Dongha Lee  
+*arXiv preprint*, 2024 [[arxiv](https://arxiv.org/abs/2406.12269)]  
 
-#### framework   
-![pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat&logo=pytorch)
+- <span style="color:darkbrown"> **VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models** </span>  
+{Seoyeon Kim, **Kwangwook Seo**}, Hyungjoo Chae, Jinyoung Yeo, Dongha Lee  
+*ACL main*, 2024 [[arxiv](https://arxiv.org/abs/2402.18374)]
+
+## 🏆 Honors and Awards  
+- **First Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
+Minister of Science and ICT Award  
+*Optimal Location Selection of EV Slow Charger* [[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ&t=54s)]  
+
+- **Excellence Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
+
+- **First Prize –HUFS 19th Spring Academic Conference , Department of Brazilian Studies**  
+*Regression Analysis on Brazilian Equity Index and Macroeconomic Influencing Factors*  
+
+- **Second Prize –HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
+*Financial Ratio Analysis on Brazilian Travel Agencies Before and After COVID-19*  
+
+## 📂 Work Experience
+- **AI Research Intern, Twigfarm**  
+Sol Project 3rd Internship Program, 2022  
+*Korean STS benchmark improvement via scoring silver-label inconsistency*
+
+## 📖 Teaching  
+- **(2024 AI Expert) Information Retrieval and Recommendation System, Samsung Electronics
+SNU R&D Center**    
+  *Teaching Assistant*   
+- **(AAI3120) Machine Learning, Yonsei University**     
+  *Teaching Assistant*  
+- **(AIC2110) Introduction to Data Science, Yonsei University**   
+  *Teaching Assistant*  
 
 
 
