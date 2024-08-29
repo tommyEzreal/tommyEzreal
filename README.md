@@ -22,16 +22,17 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 *ACL 2024* [[arxiv](https://arxiv.org/abs/2402.18374)]
 
 ## 🏆 Honors and Awards  
-- **First Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
-Minister of Science and ICT Award  
+- **1st Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
+<span style="color: brown;">Minister of Science and ICT Award</span>  
 *Optimal Location Selection of EV Slow Charger* [[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ&t=54s)]  
 
-- **Excellence Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
+- **3rd Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
+*Development of SDGs Implementation Analysis System at Universities based on NLP*  
 
-- **First Prize –HUFS 19th Spring Academic Conference , Department of Brazilian Studies**  
+- **1st Prize –HUFS 19th Spring Academic Conference , Department of Brazilian Studies**  
 *Regression Analysis on Brazilian Equity Index and Macroeconomic Influencing Factors*  
 
-- **Second Prize –HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
+- **2nd Prize –HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
 *Financial Ratio Analysis on Brazilian Travel Agencies Before and After COVID-19*  
 
 ## 📂 Work Experience
