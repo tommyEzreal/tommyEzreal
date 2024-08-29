@@ -23,16 +23,16 @@ I'm a linked M.S./Ph.D. student at the [Data & Language Intelligence (DLI) Lab](
 
 ## 🏆 Honors and Awards  
 - **1st Prize – Bigcontest 2022 Data Analysis Champion League, MSIT and NIA**  
-<span style="color: red;">Minister of Science and ICT Award</span>  
+Minister of Science and ICT Award 
 *Optimal Location Selection of EV Slow Charger* [[presentation](https://www.youtube.com/watch?v=b7AGVEIontQ&t=54s)]  
 
 - **3rd Prize – 2022 HUFS AI Idea Contetst , HUFS AIEI**  
 *Development of SDGs Implementation Analysis System at Universities based on NLP*  
 
-- **1st Prize –HUFS 19th Spring Academic Conference , Department of Brazilian Studies**  
+- **1st Prize – 2022 HUFS 19th Spring Academic Conference , Department of Brazilian Studies**  
 *Regression Analysis on Brazilian Equity Index and Macroeconomic Influencing Factors*  
 
-- **2nd Prize –HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
+- **2nd Prize – 2021 HUFS 18th Fall Academic Conference , Department of Brazilian Studies**  
 *Financial Ratio Analysis on Brazilian Travel Agencies Before and After COVID-19*  
 
 ## 📂 Work Experience
@@ -44,9 +44,9 @@ Sol Project 3rd Internship Program, 2022
 - **(2024 AI Expert) Information Retrieval and Recommendation System, Samsung Electronics
 SNU R&D Center**    
   *Teaching Assistant*   
-- **(AAI3120) Machine Learning, Yonsei University**     
+- **(AAI3120) Machine Learning, *2023F*, Yonsei University**     
   *Teaching Assistant*  
-- **(AIC2110) Introduction to Data Science, Yonsei University**   
+- **(AIC2110) Introduction to Data Science, *2023F*, Yonsei University**   
   *Teaching Assistant*  
 
 
