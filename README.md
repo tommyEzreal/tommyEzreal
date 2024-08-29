@@ -41,12 +41,12 @@ Sol Project 3rd Internship Program, 2022
 *Korean STS benchmark improvement via scoring silver-label inconsistency*
 
 ## 📖 Teaching  
-- **(2024 AI Expert) Information Retrieval and Recommendation System, Samsung Electronics
+- **[AI Expert] Information Retrieval and Recommendation System (2024), Samsung Electronics
 SNU R&D Center**    
   *Teaching Assistant*   
-- **(AAI3120) Machine Learning, *2023F*, Yonsei University**     
+- **[AAI3120] Machine Learning (2023F), Yonsei University**     
   *Teaching Assistant*  
-- **(AIC2110) Introduction to Data Science, *2023F*, Yonsei University**   
+- **[AIC2110] Introduction to Data Science (2023F), Yonsei University**   
   *Teaching Assistant*  
 
 
