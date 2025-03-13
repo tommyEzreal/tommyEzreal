@@ -6,8 +6,8 @@ I'm a linked M.S./Ph.D. student in the [Data & Language Intelligence (DLI) Lab](
 
 ## 🔎 Research Interest
 My research interests encompass a broad range of topics within the scope of natural language processing (NLP). Recently, I have been particularly interested in:   
-- Knolwedge Augmentation of Language Models with external knowledge sources 
-- Enhancing Language Model's internal knowledge activation via curating synthetic training data and quality control  
+- Knolwedge Augmentation of LMs with external knowledge sources 
+- Enhancing LM's internal knowledge activation via curating synthetic training data and quality control  
 - Personalized Agents and User Simulation in diverse real environments
 - Reasoning over structured knowledge sources (e.g., tables) with complex information beyond general text
 
